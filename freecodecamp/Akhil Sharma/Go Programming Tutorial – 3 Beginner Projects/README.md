@@ -12,4 +12,10 @@ $ go run . --domain google.com
 ![](go-healthcheck.png)
 
 ## file-encryption-decryption
+```bash
+# run command
+$ go run . encrypt path/to/your/file
+$ go run . decrypt path/to/your/file
+# you can use any domain
+```
 ![](file-encryption-decryption.png)
